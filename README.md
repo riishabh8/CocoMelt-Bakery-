@@ -8,7 +8,7 @@
 1. Manually
 
     a. Use the download function on gihub by clicking on to the code then select the option
-    
+
     `Download ZIP`
 
     b. Extract it.
@@ -20,15 +20,15 @@
 
 3. Move to the directory
 
-` cd .\CocoMelt-Bakery-\`
+        ` cd .\CocoMelt-Bakery-\`
 
 4. Install the packages
 
-`npm install .`
+        `npm install .`
 
 5. Spin up the react server and see the magic
 
-`npm start`
+        `npm start`
 
 ### Images 
 1. Landing Page
