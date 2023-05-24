@@ -7,12 +7,15 @@
  
 1. Manually
 
-    a. Use the download function on gihub by clicking on to the code then `Download ZIP`
+    a. Use the download function on gihub by clicking on to the code then select the option
+    
+    `Download ZIP`
 
     b. Extract it.
 
 2.CLI
     a.open cmd(Windows) or terminal(Linux), make sure the git is installed copy the code.
+
     `git clone https://github.com/riishabh8/CocoMelt-Bakery-.git`
 
 3. Move to the directory
