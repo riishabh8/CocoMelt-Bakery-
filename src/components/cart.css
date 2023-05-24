@@ -1,0 +1,33 @@
+.cart {
+  border: 2px solid #ff950a;;
+  width: 20vw;
+  height: 35vw;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: #faebd7f5;
+  text-align: center;
+  box-shadow: -9px -6px 5px 0px rgba(0,0,0,0.75);
+}
+.cart ul{
+    list-style: none;
+}
+.cart li button {
+  border: none;
+  background-color: transparent;
+  color: #ff950a;
+  font-size: 20px;
+    margin-left: 20px;
+  cursor: pointer;
+  padding: 0;
+}
+
+.checkout{
+  background-color: #FF950A;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+

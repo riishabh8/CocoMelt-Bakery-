@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+    border: 0;
+    margin: 0;
+    padding: 20px;
+}
+.cartToggler{
+    position: fixed;
+    bottom: 20px;
+    right: 0px;
+    background-color: #FF950A;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 20vw;
+}
+body{
+    background-color: rgb(249, 243, 234);
+}
